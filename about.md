@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This is my new blog site.
-Not yet sure if i have to assign a new domain name for this or get the one from my original blog, http://notes.linonico.com.
+Not yet sure if i have to assign a new domain name for this or get the one from my original blog, [http://notes.linonico.com](http://notes.linonico.com).
 
 ### More Information
 
