@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is my new blog site.
+Not yet sure if i have to assign a new domain name for this or get the one from my original blog, http://notes.linonico.com.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is powered by jekyll running within the cool github service.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[castlino@yahoo.com](mailto:castlino@yahoo.com)
